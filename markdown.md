@@ -35,9 +35,12 @@ Line two
 ```
 [Link Text](url)
 Want to visit [my git home page](https://github.com/fsd-ohidur)?
+[More markdown guide](https://www.markdownguide.org/extended-syntax/)
 ```
-**Output:** Want to visit [my git home page](https://github.com/fsd-ohidur)?
-  
+**Output:**  
+Want to visit [my git home page](https://github.com/fsd-ohidur)?  
+[More markdown guide](https://www.markdownguide.org/extended-syntax/)  
+
 * Multiple Link  
   - Create Label  
   [label name]: url  
